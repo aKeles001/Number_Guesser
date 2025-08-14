@@ -12,7 +12,7 @@ realtime_update = st.sidebar.checkbox("Update in realtime", True)
 
 @st.cache_resource
 def get_model():
-    model = load_model('/workspaces/Number_Guesser/model/model2.keras')
+    model = load_model('model/model2.keras')
     return model
 
 model = get_model()
