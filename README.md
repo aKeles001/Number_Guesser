@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Number Guesser
 
 A simple Streamlit app template for you to modify!
 
